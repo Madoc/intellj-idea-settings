@@ -1,6 +1,7 @@
 <code_scheme name="Default">
   <ScalaCodeStyleSettings>
     <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+    <option name="ENFORCE_FUNCTIONAL_SYNTAX_FOR_UNIT" value="false" />
     <option name="REPLACE_CASE_ARROW_WITH_UNICODE_CHAR" value="true" />
     <option name="REPLACE_MAP_ARROW_WITH_UNICODE_CHAR" value="true" />
     <option name="REPLACE_FOR_GENERATOR_ARROW_WITH_UNICODE_CHAR" value="true" />
@@ -15,5 +16,12 @@
   </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
