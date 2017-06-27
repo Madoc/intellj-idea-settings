@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="tilde-ci" type="PLAIN_TEXT" />
       <mapping pattern="zprofile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
