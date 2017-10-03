@@ -39,6 +39,7 @@
     <option name="SPACE_INSIDE_CLOSURE_BRACES" value="false" />
     <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
+    <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
     <option name="ENFORCE_FUNCTIONAL_SYNTAX_FOR_UNIT" value="false" />
     <option name="REPLACE_CASE_ARROW_WITH_UNICODE_CHAR" value="true" />
     <option name="REPLACE_MAP_ARROW_WITH_UNICODE_CHAR" value="true" />
@@ -46,6 +47,7 @@
     <option name="REPLACE_LAMBDA_WITH_GREEK_LETTER" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="SPACE_AFTER_COMMA_IN_TYPE_ARGUMENTS" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
