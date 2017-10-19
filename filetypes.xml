@@ -8,6 +8,7 @@
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="contra" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="userstorageproviderfactory" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
