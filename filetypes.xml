@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="tilde-ci" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-single" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
       <mapping pattern="zprofile" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
