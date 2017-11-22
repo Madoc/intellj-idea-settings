@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="tilde-ci" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-keycloak-base" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-single" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-standalone-postgres" type="PLAIN_TEXT" />
