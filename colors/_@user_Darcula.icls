@@ -4,7 +4,7 @@
     <property name="created">2017-04-03T16:26:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-11-21T20:38:53</property>
+    <property name="modified">2017-11-22T10:19:39</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="18" />
@@ -14,6 +14,31 @@
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_CALL">
+      <value />
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="BACKGROUND" value="5a5a5a" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC_END">
+      <value />
+    </option>
+    <option name="BASH.HERE_DOC_START">
+      <value />
+    </option>
+    <option name="BASH.REDIRECTION">
+      <value />
+    </option>
+    <option name="BASH.SHEBANG">
+      <value />
+    </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="7f00" />
