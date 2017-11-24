@@ -4,14 +4,14 @@
     <property name="created">2017-04-03T16:26:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-11-24T08:15:24</property>
+    <property name="modified">2017-11-24T16:17:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Skyhook Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="PragmataPro Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
     <option name="BASH.EXTERNAL_COMMAND">
@@ -91,6 +91,38 @@
         <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
+    <option name="HOCON_SUBSTITUTION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="b8bb" />
+      </value>
+    </option>
+    <option name="IGNORE.BRACKET">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="BACKGROUND" value="3a3a3a" />
+      </value>
+    </option>
+    <option name="IGNORE.NEGATION">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="IGNORE.SYNTAX">
+      <value>
+        <option name="FOREGROUND" value="acacac" />
+        <option name="BACKGROUND" value="4a4a4a" />
+      </value>
+    </option>
+    <option name="IGNORE.UNUSED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
     <option name="Interpolated String Injection">
       <value>
         <option name="FOREGROUND" value="b8bb" />
@@ -111,10 +143,38 @@
         <option name="FOREGROUND" value="80805a" />
       </value>
     </option>
+    <option name="MARKDOWN_REFERENCE_LINK">
+      <value />
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffef28" />
         <option name="BACKGROUND" value="3b514d" />
+      </value>
+    </option>
+    <option name="REGEXP.CHAR_CLASS">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="REGEXP.ESC_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="REGEXP.META">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="REGEXP.QUOTE_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="REGEXP.REDUNDANT_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="9396c0" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
