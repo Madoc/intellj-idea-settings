@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="identity-cassandra/Dockerfile" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="tilde-ci" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-keycloak-base" type="PLAIN_TEXT" />
