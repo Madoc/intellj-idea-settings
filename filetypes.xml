@@ -13,6 +13,7 @@
       <mapping pattern="Dockerfile-standalone" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="contra" type="PLAIN_TEXT" />
+      <mapping ext="dirish" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="userstorageproviderfactory" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
