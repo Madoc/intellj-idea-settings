@@ -43,6 +43,13 @@
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
   </XML>
+  <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="SPACE_AFTER_COMMA_IN_TYPE_ARGUMENTS" value="false" />
     <indentOptions>
