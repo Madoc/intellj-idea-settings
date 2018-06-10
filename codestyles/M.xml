@@ -1,0 +1,57 @@
+<code_scheme name="M" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
+  <JavaCodeStyleSettings>
+    <option name="SPACE_AROUND_TYPE_BOUNDS_IN_TYPE_PARAMETERS" value="false" />
+  </JavaCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="SPACE_INSIDE_CLOSURE_BRACES" value="false" />
+    <option name="SPACE_AFTER_TYPE_COLON" value="false" />
+    <option name="USE_SCALADOC2_FORMATTING" value="false" />
+    <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
+    <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
+    <option name="TYPE_ANNOTATION_EXCLUDE_MEMBER_OF_ANONYMOUS_CLASS" value="true" />
+    <option name="TYPE_ANNOTATION_EXCLUDE_MEMBER_OF_PRIVATE_CLASS" value="true" />
+    <option name="SD_ALIGN_OTHER_TAGS_COMMENTS" value="false" />
+    <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
+    <option name="SD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+    <option name="SD_ALIGN_RETURN_COMMENTS" value="false" />
+    <option name="ENFORCE_FUNCTIONAL_SYNTAX_FOR_UNIT" value="false" />
+    <option name="REPLACE_CASE_ARROW_WITH_UNICODE_CHAR" value="true" />
+    <option name="REPLACE_MAP_ARROW_WITH_UNICODE_CHAR" value="true" />
+    <option name="REPLACE_FOR_GENERATOR_ARROW_WITH_UNICODE_CHAR" value="true" />
+    <option name="REPLACE_LAMBDA_WITH_GREEK_LETTER" value="true" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_AFTER_COMMA_IN_TYPE_ARGUMENTS" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="METHOD_ANNOTATION_WRAP" value="1" />
+    <option name="CLASS_ANNOTATION_WRAP" value="1" />
+    <option name="FIELD_ANNOTATION_WRAP" value="1" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
