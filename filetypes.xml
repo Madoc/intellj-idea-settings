@@ -8,6 +8,7 @@
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-single" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-standalone-postgres" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
       <mapping pattern="zprofile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-standalone" type="PLAIN_TEXT" />

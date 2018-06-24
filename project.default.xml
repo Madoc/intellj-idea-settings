@@ -1,47 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="InspectionProjectProfileManager">
-        <profile version="1.0">
-          <option name="myName" value="Project Default" />
-          <inspection_tool class="LanguageFeature" enabled="false" level="WARNING" enabled_by_default="false" />
-          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
-            <option name="processCode" value="true" />
-            <option name="processLiterals" value="true" />
-            <option name="processComments" value="true" />
-          </inspection_tool>
-        </profile>
-        <option name="projectProfile" value="Default" />
-        <option name="useProjectProfile" value="false" />
-        <option name="PROJECT_PROFILE" value="Default" />
-        <option name="USE_PROJECT_PROFILE" value="false" />
-        <version value="1.0" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>GeneralScala</id>
-              </State>
-              <State>
-                <id>Scala</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>LanguageFeature</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Errors" />
-      </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
@@ -94,12 +53,45 @@
           <option name="PORT" value="5005" />
           <method />
         </configuration>
+        <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/p/prv/gta-rpg/campaign" value="PREVIEW" />
+            <entry key="$USER_HOME$/p/prv/gta-rpg/rendering" value="PREVIEW" />
+            <entry key="$USER_HOME$/p/prv/gta-rpg/storymodel" value="PREVIEW" />
+            <entry key="$USER_HOME$/p/prv/lib/objectscan" value="PREVIEW" />
+            <entry key="$USER_HOME$/p/prv/lib/scurps" value="PREVIEW" />
+            <entry key="$USER_HOME$/p/prv/lib/stringish" value="PREVIEW" />
+            <entry key="$USER_HOME$/p/prv/tool/update-timesheet" value="PREVIEW" />
+            <entry key="$USER_HOME$/p/pub/lib/process-actor" value="PREVIEW" />
+            <entry key="$USER_HOME$/p2/gkh/itgr/control2-frontend-shop" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>9.0</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
