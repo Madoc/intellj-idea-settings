@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile-standalone-postgres" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="tilde-ci" type="PLAIN_TEXT" />
