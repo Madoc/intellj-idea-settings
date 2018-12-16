@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Scala/Type/Add explicit Unit Type Annotation" />
-  </component>
-</application>
