@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile-standalone-postgres" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="tilde-ci" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-standalone" type="PLAIN_TEXT" />
       <mapping pattern="zprofile" type="PLAIN_TEXT" />
