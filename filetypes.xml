@@ -7,6 +7,7 @@
       <mapping pattern="dirish" type="PLAIN_TEXT" />
       <mapping pattern="java" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping pattern="bash-rc" type="PLAIN_TEXT" />
       <mapping pattern="devtools" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-keycloak-base" type="PLAIN_TEXT" />
       <mapping pattern="zsh-env" type="PLAIN_TEXT" />
