@@ -2,15 +2,30 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="Dockerfile-standalone-postgres" type="PLAIN_TEXT" />
-      <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern="tilde-ci" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-standalone" type="PLAIN_TEXT" />
-      <mapping pattern="zprofile" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="dirish" type="PLAIN_TEXT" />
+      <mapping pattern="java" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping pattern="bash-rc" type="PLAIN_TEXT" />
+      <mapping pattern="devtools" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-keycloak-base" type="PLAIN_TEXT" />
+      <mapping pattern="zsh-env" type="PLAIN_TEXT" />
+      <mapping pattern="zprofile" type="PLAIN_TEXT" />
+      <mapping pattern="zsh" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="java-env" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-single" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-standalone-postgres" type="PLAIN_TEXT" />
+      <mapping pattern="zshenv" type="PLAIN_TEXT" />
+      <mapping pattern="gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
+      <mapping pattern="devtools-env" type="PLAIN_TEXT" />
+      <mapping pattern="shell" type="PLAIN_TEXT" />
+      <mapping pattern="bashrc" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-standalone" type="PLAIN_TEXT" />
+      <mapping pattern="path" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="contra" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
