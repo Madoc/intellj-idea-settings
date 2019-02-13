@@ -7,14 +7,12 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Python 3.7 (payment2) interpreter library">
+    <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/p/com/moia/payment2/venv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/p/com/moia/payment2/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/p/com/moia/payment2/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2018.3/python_stubs/-1169917568" />
+        <root url="file:///usr/local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2018.3/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -25,10 +23,8 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/p/com/moia/payment2/venv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/p/com/moia/payment2/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/p/com/moia/payment2/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2018.3/python_stubs/-1169917568" />
+        <root url="file:///usr/local/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2018.3/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
