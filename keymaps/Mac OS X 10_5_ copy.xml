@@ -1,17 +1,15 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="meta 1" />
-    <keyboard-shortcut first-keystroke="meta exclamation_mark" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
-  <action id="ActivateStructureToolWindow" />
-  <action id="ActivateTODOToolWindow" />
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta braceright" />
-    <keyboard-shortcut first-keystroke="meta 7" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
-    <keyboard-shortcut first-keystroke="meta circumflex" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="Switcher" />
 </keymap>
