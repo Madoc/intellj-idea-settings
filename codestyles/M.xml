@@ -14,8 +14,6 @@
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
     <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
     <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
-    <option name="TYPE_ANNOTATION_EXCLUDE_MEMBER_OF_ANONYMOUS_CLASS" value="true" />
-    <option name="TYPE_ANNOTATION_EXCLUDE_MEMBER_OF_PRIVATE_CLASS" value="true" />
     <option name="SD_ALIGN_OTHER_TAGS_COMMENTS" value="false" />
     <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
     <option name="SD_ALIGN_EXCEPTION_COMMENTS" value="false" />
