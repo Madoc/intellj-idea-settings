@@ -1,51 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="bash_profile2" type="Bash" />
-      <mapping pattern="devtools-env" type="PLAIN_TEXT" />
-      <mapping pattern="tilde-ci" type="PLAIN_TEXT" />
-      <mapping pattern="dirish" type="PLAIN_TEXT" />
-      <mapping pattern="java" type="PLAIN_TEXT" />
-      <mapping pattern="zsh-env" type="PLAIN_TEXT" />
-      <mapping pattern="bash-rc" type="PLAIN_TEXT" />
-      <mapping pattern="devtools" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-keycloak-base" type="PLAIN_TEXT" />
-      <mapping pattern="zprofile" type="PLAIN_TEXT" />
-      <mapping pattern="zsh" type="PLAIN_TEXT" />
-      <mapping pattern="profile" type="PLAIN_TEXT" />
-      <mapping pattern="java-env" type="PLAIN_TEXT" />
-      <mapping pattern="shell" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-single" type="PLAIN_TEXT" />
-      <mapping pattern="zshrc" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-standalone-postgres" type="PLAIN_TEXT" />
-      <mapping pattern="zshenv" type="PLAIN_TEXT" />
-      <mapping pattern="gitconfig" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
-      <mapping pattern="git" type="PLAIN_TEXT" />
-      <mapping pattern="bashrc" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-standalone" type="PLAIN_TEXT" />
-      <mapping pattern="path" type="PLAIN_TEXT" />
-      <mapping ext="cql" type="PLAIN_TEXT" />
-      <mapping ext="contra" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
-      <mapping ext="dirish" type="PLAIN_TEXT" />
-      <mapping ext="avsc" type="PLAIN_TEXT" />
-      <mapping ext="userstorageproviderfactory" type="PLAIN_TEXT" />
-      <mapping ext="cli" type="PLAIN_TEXT" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="identity-cassandra/Dockerfile" type="Dockerfile" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
