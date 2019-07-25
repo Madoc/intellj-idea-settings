@@ -13,16 +13,11 @@
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
     <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
-    <option name="TYPE_ANNOTATION_EXCLUDE_MEMBER_OF_ANONYMOUS_CLASS" value="true" />
-    <option name="TYPE_ANNOTATION_EXCLUDE_MEMBER_OF_PRIVATE_CLASS" value="true" />
     <option name="SD_ALIGN_OTHER_TAGS_COMMENTS" value="false" />
     <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
     <option name="SD_ALIGN_EXCEPTION_COMMENTS" value="false" />
     <option name="SD_ALIGN_RETURN_COMMENTS" value="false" />
     <option name="ENFORCE_FUNCTIONAL_SYNTAX_FOR_UNIT" value="false" />
-    <option name="REPLACE_CASE_ARROW_WITH_UNICODE_CHAR" value="true" />
-    <option name="REPLACE_MAP_ARROW_WITH_UNICODE_CHAR" value="true" />
-    <option name="REPLACE_FOR_GENERATOR_ARROW_WITH_UNICODE_CHAR" value="true" />
     <option name="REPLACE_LAMBDA_WITH_GREEK_LETTER" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="Groovy">
