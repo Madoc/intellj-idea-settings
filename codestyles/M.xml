@@ -12,7 +12,6 @@
     <option name="SPACE_INSIDE_CLOSURE_BRACES" value="false" />
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
-    <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
     <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
     <option name="SD_ALIGN_OTHER_TAGS_COMMENTS" value="false" />
     <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
