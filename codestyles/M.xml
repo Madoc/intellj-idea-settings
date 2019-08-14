@@ -8,10 +8,12 @@
   <JavaCodeStyleSettings>
     <option name="SPACE_AROUND_TYPE_BOUNDS_IN_TYPE_PARAMETERS" value="false" />
   </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="SPACE_INSIDE_CLOSURE_BRACES" value="false" />
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
-    <option name="USE_SCALADOC2_FORMATTING" value="false" />
     <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
     <option name="SD_ALIGN_OTHER_TAGS_COMMENTS" value="false" />
     <option name="SD_ALIGN_PARAMETERS_COMMENTS" value="false" />
