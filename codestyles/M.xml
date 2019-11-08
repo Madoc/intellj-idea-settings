@@ -9,7 +9,8 @@
     <option name="SPACE_AROUND_TYPE_BOUNDS_IN_TYPE_PARAMETERS" value="false" />
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
+    <option name="INDENT_SIZE" value="2" />
+    <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="SPACE_INSIDE_CLOSURE_BRACES" value="false" />
@@ -45,7 +46,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
-    <option name="WRAP_ON_TYPING" value="1" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
