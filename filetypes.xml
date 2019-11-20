@@ -20,6 +20,7 @@
       <mapping pattern="path" type="Shell Script" />
       <mapping pattern="new-day" type="Shell Script" />
       <mapping pattern="shell-customization" type="Shell Script" />
+      <mapping pattern="dotfiles" type="Shell Script" />
       <mapping pattern="dirish" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
