@@ -5,10 +5,16 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="new-day" type="Shell Script" />
-      <mapping pattern="common" type="Shell Script" />
+      <mapping pattern="prompt" type="Shell Script" />
+      <mapping pattern="fury" type="Shell Script" />
       <mapping pattern="git" type="Shell Script" />
       <mapping pattern="bin/new-day" type="Shell Script" />
+      <mapping pattern="sbt" type="Shell Script" />
+      <mapping pattern="travis" type="Shell Script" />
+      <mapping pattern="common" type="Shell Script" />
+      <mapping pattern="path" type="Shell Script" />
+      <mapping pattern="new-day" type="Shell Script" />
+      <mapping pattern="dirish" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
