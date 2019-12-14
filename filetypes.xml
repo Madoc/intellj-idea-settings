@@ -17,7 +17,6 @@
       <mapping pattern="post_rc" type="Shell Script" />
       <mapping pattern="dotfiles" type="Shell Script" />
       <mapping pattern="shell-specifics" type="Shell Script" />
-      <mapping pattern="sdkman" type="Shell Script" />
       <mapping pattern="maven" type="Shell Script" />
       <mapping pattern="new-day" type="Shell Script" />
       <mapping pattern="fury" type="Shell Script" />
@@ -35,6 +34,7 @@
       <mapping pattern="travis" type="Shell Script" />
       <mapping pattern="typing" type="Shell Script" />
       <mapping pattern="plugins" type="Shell Script" />
+      <mapping pattern="sdkman" type="Shell Script" />
       <mapping pattern="scripts/post_rc" type="Shell Script" />
       <mapping pattern="path" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
