@@ -8,7 +8,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="python" type="Shell Script" />
       <mapping pattern="confluent" type="Shell Script" />
-      <mapping pattern="prince" type="Shell Script" />
       <mapping pattern="sbt" type="Shell Script" />
       <mapping pattern="scala" type="Shell Script" />
       <mapping pattern="common" type="Shell Script" />
@@ -26,7 +25,7 @@
       <mapping pattern="auto-update" type="Shell Script" />
       <mapping pattern="command-time" type="Shell Script" />
       <mapping pattern="history" type="Shell Script" />
-      <mapping pattern="shell-specifics" type="Shell Script" />
+      <mapping pattern="prince" type="Shell Script" />
       <mapping pattern="shell-customization" type="Shell Script" />
       <mapping pattern="theme" type="Shell Script" />
       <mapping pattern="navigation" type="Shell Script" />
@@ -34,6 +33,7 @@
       <mapping pattern="git" type="Shell Script" />
       <mapping pattern="travis" type="Shell Script" />
       <mapping pattern="plugins" type="Shell Script" />
+      <mapping pattern="shell-specifics" type="Shell Script" />
       <mapping pattern="sdkman" type="Shell Script" />
       <mapping pattern="scripts/post_rc" type="Shell Script" />
       <mapping pattern="path" type="Shell Script" />
