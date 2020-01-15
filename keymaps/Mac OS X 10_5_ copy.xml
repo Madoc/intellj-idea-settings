@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="meta 3" />
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
+  <action id="ActivateMessagesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta exclamation_mark" />
@@ -40,6 +44,10 @@
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
