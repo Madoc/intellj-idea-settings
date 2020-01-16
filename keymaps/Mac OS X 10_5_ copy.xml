@@ -65,5 +65,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta alt a" />
+  </action>
   <action id="Switcher" />
 </keymap>
