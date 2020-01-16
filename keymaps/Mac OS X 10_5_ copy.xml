@@ -49,8 +49,14 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta less" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="meta greater" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
