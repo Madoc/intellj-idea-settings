@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala,*.json" />
+    <option name="FILE_MASK" value="Makefile*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,7 +13,6 @@
     <mask>*Processor.scala</mask>
     <mask>*.gradle</mask>
     <mask>build.gradle</mask>
-    <mask>Makefile*</mask>
     <mask>*</mask>
     <mask>*</mask>
     <mask>*.md</mask>
@@ -21,5 +20,6 @@
     <mask>*.dirish</mask>
     <mask>*.scala</mask>
     <mask>*.scala,*.json</mask>
+    <mask>Makefile*</mask>
   </component>
 </application>
