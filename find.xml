@@ -11,12 +11,14 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*Processor.scala</mask>
-    <mask>*.dirish</mask>
     <mask>*.gradle</mask>
     <mask>build.gradle</mask>
     <mask>Makefile*</mask>
     <mask>*</mask>
     <mask>*</mask>
+    <mask>*.md</mask>
+    <mask>README.md</mask>
+    <mask>*.dirish</mask>
     <mask>*.scala</mask>
   </component>
 </application>
