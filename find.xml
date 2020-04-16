@@ -19,9 +19,9 @@
     <mask>Makefile*</mask>
     <mask>*.json</mask>
     <mask>*.scala,*.md</mask>
-    <mask>*</mask>
     <mask>*.scala</mask>
     <mask>*.scala,*.json</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
