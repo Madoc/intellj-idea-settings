@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="stack" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
