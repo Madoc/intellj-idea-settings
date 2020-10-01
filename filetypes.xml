@@ -6,10 +6,8 @@
       <mapping pattern="stack" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="sdkman" type="Shell Script" />
       <mapping pattern="iterm" type="Shell Script" />
       <mapping pattern="git" type="Shell Script" />
@@ -18,8 +16,8 @@
       <mapping pattern="python" type="Shell Script" />
       <mapping pattern="maven" type="Shell Script" />
       <mapping pattern="travis" type="Shell Script" />
-      <mapping pattern="scripts/post_rc" type="Shell Script" />
       <mapping pattern="dotfiles" type="Shell Script" />
+      <mapping pattern="scripts/post_rc" type="Shell Script" />
       <mapping pattern="dirish" type="Shell Script" />
       <mapping pattern="private" type="Shell Script" />
       <mapping pattern="auto-update" type="Shell Script" />
@@ -30,15 +28,15 @@
       <mapping pattern="prompt" type="Shell Script" />
       <mapping pattern="post_rc" type="Shell Script" />
       <mapping pattern="oh-my-zsh" type="Shell Script" />
-      <mapping pattern="new-day" type="Shell Script" />
       <mapping pattern="command-time" type="Shell Script" />
+      <mapping pattern="new-day" type="Shell Script" />
       <mapping pattern="sbt" type="Shell Script" />
       <mapping pattern="theme" type="Shell Script" />
       <mapping pattern="common" type="Shell Script" />
       <mapping pattern="haskell" type="Shell Script" />
-      <mapping pattern="navigation" type="Shell Script" />
-      <mapping pattern="path" type="Shell Script" />
       <mapping pattern="plugins" type="Shell Script" />
+      <mapping pattern="path" type="Shell Script" />
+      <mapping pattern="navigation" type="Shell Script" />
       <mapping pattern="confluent" type="Shell Script" />
       <mapping pattern="scala" type="Shell Script" />
       <mapping pattern="prince" type="Shell Script" />
