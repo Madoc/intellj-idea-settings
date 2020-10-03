@@ -6,6 +6,7 @@
       <mapping pattern="rust" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="stack" type="PLAIN_TEXT" />
+      <mapping ext="numbers" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
