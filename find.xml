@@ -23,6 +23,7 @@
     <mask>*</mask>
     <mask>*.dirish</mask>
     <mask>*.md</mask>
+    <mask>*.sql</mask>
     <mask>*.scala</mask>
   </component>
 </application>
