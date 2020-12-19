@@ -51,9 +51,23 @@
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
   </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="Forward">
