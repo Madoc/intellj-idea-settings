@@ -118,6 +118,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.doclua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.docx">
           <value>
             <plugin>
@@ -470,6 +478,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.lua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
             </plugin>
           </value>
         </entry>
@@ -955,6 +971,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.wlua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.wsdl">
           <value>
             <plugin>
@@ -1187,6 +1211,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#com.sylvanaar.idea.Lua.run.LuaConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Lua Script" pluginName="Lua" pluginId="Lua" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
@@ -1312,6 +1341,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="Lua">
+                    <value>
+                      <FeaturePluginData displayName="Lua" pluginName="Lua" pluginId="Lua" />
+                    </value>
+                  </entry>
                   <entry key="Python">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
