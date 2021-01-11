@@ -1337,6 +1337,11 @@
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
                     </value>
                   </entry>
+                  <entry key="NimRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Nim Application" pluginName="Nim" pluginId="com.jetbrains.nim" />
+                    </value>
+                  </entry>
                   <entry key="PythonConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
