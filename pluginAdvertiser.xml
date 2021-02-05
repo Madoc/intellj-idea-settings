@@ -127,6 +127,11 @@
                       <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
+                  <entry key="ZIG_RUN_CONFIG_ID">
+                    <value>
+                      <FeaturePluginData displayName="Zig" pluginName="Zig" pluginId="org.ziglang" />
+                    </value>
+                  </entry>
                   <entry key="lua.app">
                     <value>
                       <FeaturePluginData displayName="Lua Application" pluginName="EmmyLua" pluginId="com.tang" />
