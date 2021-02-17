@@ -1085,6 +1085,16 @@
                       <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
+                  <entry key="Cabal Run Configuration">
+                    <value>
+                      <FeaturePluginData displayName="Cabal Run" pluginName="HaskForce" pluginId="com.haskforce" />
+                    </value>
+                  </entry>
+                  <entry key="Cabal Test Configuration">
+                    <value>
+                      <FeaturePluginData displayName="Cabal Test" pluginName="HaskForce" pluginId="com.haskforce" />
+                    </value>
+                  </entry>
                   <entry key="CargoCommandRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
@@ -1183,6 +1193,16 @@
                   <entry key="Specs2RunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="Stack Run Configuration">
+                    <value>
+                      <FeaturePluginData displayName="Haskell Stack Run" pluginName="HaskForce" pluginId="com.haskforce" />
+                    </value>
+                  </entry>
+                  <entry key="Stack Task Configuration">
+                    <value>
+                      <FeaturePluginData displayName="Haskell Stack Task" pluginName="HaskForce" pluginId="com.haskforce" />
                     </value>
                   </entry>
                   <entry key="Tox">
