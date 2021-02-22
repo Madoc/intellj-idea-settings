@@ -113,4 +113,13 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt v" />
   </action>
   <action id="Switcher" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
 </keymap>
