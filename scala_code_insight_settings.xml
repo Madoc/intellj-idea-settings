@@ -1,5 +1,6 @@
 <application>
   <component name="ScalaCodeInsightSettings">
+    <option name="showTypeHints" value="false" />
     <option name="showFunctionReturnType" value="false" />
     <option name="showLocalVariableType" value="true" />
     <option name="presentationLength" value="80" />
