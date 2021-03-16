@@ -11,6 +11,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern=".dotfile" type="PLAIN_TEXT" />
+      <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="numbers" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
       <mapping pattern="sdkman" type="Shell Script" />
