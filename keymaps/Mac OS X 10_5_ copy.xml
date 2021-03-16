@@ -52,6 +52,9 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="DumpLookupElementWeights" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
@@ -76,6 +79,7 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="NewElementSamePlace" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta less" />
   </action>
