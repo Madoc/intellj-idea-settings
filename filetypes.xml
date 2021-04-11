@@ -6,7 +6,7 @@
       <mapping pattern="config/gitconfig-private" type="AUTO_DETECTED" />
       <mapping pattern="test/scala/keymap/model/ModifierTypeSuite.scala" type="AUTO_DETECTED" />
       <mapping pattern="rc_bash" type="AUTO_DETECTED" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="rust" type="PLAIN_TEXT" />
       <mapping pattern="stack" type="PLAIN_TEXT" />
@@ -39,16 +39,16 @@
       <mapping pattern="prompt" type="Shell Script" />
       <mapping pattern="post_rc" type="Shell Script" />
       <mapping pattern="oh-my-zsh" type="Shell Script" />
-      <mapping pattern="command-time" type="Shell Script" />
       <mapping pattern="new-day" type="Shell Script" />
+      <mapping pattern="command-time" type="Shell Script" />
       <mapping pattern="sbt" type="Shell Script" />
       <mapping pattern="bin/run-db" type="Shell Script" />
       <mapping pattern="theme" type="Shell Script" />
       <mapping pattern="common" type="Shell Script" />
       <mapping pattern="haskell" type="Shell Script" />
-      <mapping pattern="plugins" type="Shell Script" />
-      <mapping pattern="path" type="Shell Script" />
       <mapping pattern="navigation" type="Shell Script" />
+      <mapping pattern="path" type="Shell Script" />
+      <mapping pattern="plugins" type="Shell Script" />
       <mapping pattern="confluent" type="Shell Script" />
       <mapping pattern="scala" type="Shell Script" />
       <mapping pattern="prince" type="Shell Script" />
