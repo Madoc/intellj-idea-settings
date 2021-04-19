@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/p/prv" />
+        <option value="$USER_HOME$/p/com/innoq/triggerise/tiko" />
       </list>
     </option>
   </component>
