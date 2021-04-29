@@ -114,7 +114,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="1" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Rust">
