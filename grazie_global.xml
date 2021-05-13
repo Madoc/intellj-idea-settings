@@ -5,6 +5,15 @@
         <option value="ARTICLE_MISSING" />
       </set>
     </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="get passed" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
