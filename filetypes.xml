@@ -20,6 +20,7 @@
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="math" type="PLAIN_TEXT" />
       <mapping ext="numbers" type="PLAIN_TEXT" />
+      <mapping ext="csyn-boot" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
       <mapping pattern="sdkman" type="Shell Script" />
       <mapping pattern="iterm" type="Shell Script" />
