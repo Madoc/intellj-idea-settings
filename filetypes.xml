@@ -1,63 +1,63 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.dyn_hi;*.dyn_o;*.hi;*.o;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.dyn_hi;*.dyn_o;*.hi;*.o;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="test/scala/keymap/model/ModifierTypeSuite.scala" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="config/gitconfig-private" type="AUTO_DETECTED" />
-      <mapping pattern="test/scala/keymap/model/ModifierTypeSuite.scala" type="AUTO_DETECTED" />
       <mapping pattern="rc_bash" type="AUTO_DETECTED" />
       <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="rust" type="PLAIN_TEXT" />
       <mapping pattern="stack" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
+      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".dotfile" type="PLAIN_TEXT" />
+      <mapping pattern="rust" type="PLAIN_TEXT" />
       <mapping pattern="gitconfig-private" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="math" type="PLAIN_TEXT" />
       <mapping ext="numbers" type="PLAIN_TEXT" />
       <mapping ext="csyn0" type="PLAIN_TEXT" />
       <mapping ext="csyn-boot" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
-      <mapping pattern="sdkman" type="Shell Script" />
-      <mapping pattern="iterm" type="Shell Script" />
-      <mapping pattern="git" type="Shell Script" />
-      <mapping pattern="history" type="Shell Script" />
-      <mapping pattern="typing" type="Shell Script" />
-      <mapping pattern="python" type="Shell Script" />
-      <mapping pattern="maven" type="Shell Script" />
-      <mapping pattern="travis" type="Shell Script" />
-      <mapping pattern="dotfiles" type="Shell Script" />
-      <mapping pattern="scripts/post_rc" type="Shell Script" />
-      <mapping pattern="dirish" type="Shell Script" />
-      <mapping pattern="private" type="Shell Script" />
-      <mapping pattern="auto-update" type="Shell Script" />
+      <mapping pattern="sbt" type="Shell Script" />
+      <mapping pattern="new-day" type="Shell Script" />
+      <mapping pattern="plugins" type="Shell Script" />
       <mapping pattern="stop-db" type="Shell Script" />
-      <mapping pattern="fury" type="Shell Script" />
+      <mapping pattern="shell-customization" type="Shell Script" />
+      <mapping pattern="scripts/post_rc" type="Shell Script" />
+      <mapping pattern="sdkman" type="Shell Script" />
+      <mapping pattern="path" type="Shell Script" />
+      <mapping pattern="navigation" type="Shell Script" />
+      <mapping pattern="shell-specifics" type="Shell Script" />
+      <mapping pattern="post_rc" type="Shell Script" />
+      <mapping pattern="python" type="Shell Script" />
+      <mapping pattern="confluent" type="Shell Script" />
+      <mapping pattern="maven" type="Shell Script" />
+      <mapping pattern="iterm" type="Shell Script" />
+      <mapping pattern="history" type="Shell Script" />
       <mapping pattern="run-db" type="Shell Script" />
       <mapping pattern="bin/new-day" type="Shell Script" />
-      <mapping pattern="shell-customization" type="Shell Script" />
-      <mapping pattern="shell-specifics" type="Shell Script" />
-      <mapping pattern="prompt" type="Shell Script" />
-      <mapping pattern="post_rc" type="Shell Script" />
-      <mapping pattern="oh-my-zsh" type="Shell Script" />
-      <mapping pattern="new-day" type="Shell Script" />
-      <mapping pattern="command-time" type="Shell Script" />
-      <mapping pattern="sbt" type="Shell Script" />
-      <mapping pattern="bin/run-db" type="Shell Script" />
-      <mapping pattern="theme" type="Shell Script" />
-      <mapping pattern="common" type="Shell Script" />
-      <mapping pattern="haskell" type="Shell Script" />
-      <mapping pattern="navigation" type="Shell Script" />
-      <mapping pattern="path" type="Shell Script" />
-      <mapping pattern="plugins" type="Shell Script" />
-      <mapping pattern="confluent" type="Shell Script" />
+      <mapping pattern="typing" type="Shell Script" />
+      <mapping pattern="private" type="Shell Script" />
+      <mapping pattern="dotfiles" type="Shell Script" />
       <mapping pattern="scala" type="Shell Script" />
+      <mapping pattern="git" type="Shell Script" />
+      <mapping pattern="common" type="Shell Script" />
+      <mapping pattern="command-time" type="Shell Script" />
+      <mapping pattern="theme" type="Shell Script" />
       <mapping pattern="prince" type="Shell Script" />
+      <mapping pattern="haskell" type="Shell Script" />
+      <mapping pattern="fury" type="Shell Script" />
+      <mapping pattern="bin/run-db" type="Shell Script" />
+      <mapping pattern="dirish" type="Shell Script" />
+      <mapping pattern="auto-update" type="Shell Script" />
+      <mapping pattern="travis" type="Shell Script" />
+      <mapping pattern="oh-my-zsh" type="Shell Script" />
+      <mapping pattern="prompt" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
