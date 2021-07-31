@@ -6,6 +6,7 @@
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
     <option name="COPY_SCALADOC" value="false" />
     <option name="HANDLE_BLOCK_BRACES_INSERTION_AUTOMATICALLY" value="false" />
+    <option name="HANDLE_BLOCK_BRACES_REMOVAL_AUTOMATICALLY" value="true" />
     <option name="ASK_USE_LATEST_PLUGIN_BUILDS" value="false" />
     <option name="SUGGEST_IN_EDITOR_DOC_RENDERING" value="false" />
     <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
