@@ -2,8 +2,8 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
-        <option value="ARTICLE_MISSING" />
-        <option value="And" />
+        <option value="LanguageTool.EN.And" />
+        <option value="LanguageTool.EN.ARTICLE_MISSING" />
       </set>
     </option>
     <option name="suppressingContext">
