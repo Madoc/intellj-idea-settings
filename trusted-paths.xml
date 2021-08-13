@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/p/prv" />
         <option value="$USER_HOME$/p/com/innoq/triggerise/tiko" />
+        <option value="$USER_HOME$/p/com/innoq/triggerise/movercado" />
       </list>
     </option>
   </component>
