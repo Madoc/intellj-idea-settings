@@ -58,7 +58,6 @@
       <mapping pattern="travis" type="Shell Script" />
       <mapping pattern="oh-my-zsh" type="Shell Script" />
       <mapping pattern="prompt" type="Shell Script" />
-      <mapping ext="pom" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
