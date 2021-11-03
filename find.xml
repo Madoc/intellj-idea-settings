@@ -19,14 +19,14 @@
     <mask>*</mask>
     <mask>*.sql</mask>
     <mask>*.*</mask>
+    <mask>*.json</mask>
+    <mask>*.md</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.json</mask>
-    <mask>*.md</mask>
     <mask>*.scala</mask>
   </component>
 </application>
