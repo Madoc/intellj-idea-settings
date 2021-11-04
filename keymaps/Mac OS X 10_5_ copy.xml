@@ -125,4 +125,13 @@
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="copilot.cycleNextInlays">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="copilot.cyclePrevInlays">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="copilot.requestCompletions">
+    <keyboard-shortcut first-keystroke="meta numpad4" />
+  </action>
 </keymap>
