@@ -12,12 +12,6 @@
     <option name="INDENT_SIZE" value="2" />
     <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
-  <RsCodeStyleSettings>
-    <option name="ALIGN_RET_TYPE" value="false" />
-    <option name="ALIGN_WHERE_BOUNDS" value="false" />
-    <option name="INDENT_WHERE_CLAUSE" value="false" />
-    <option name="ALLOW_ONE_LINE_MATCH" value="true" />
-  </RsCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="importsWithPrefix">
       <array>
