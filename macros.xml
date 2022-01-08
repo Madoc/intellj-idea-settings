@@ -1,7 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Insert single quote">
-      <shortuct text="alt EQUALS" />
-    </macro>
-  </component>
-</application>
