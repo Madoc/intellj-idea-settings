@@ -1,0 +1,37 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="org.jetbrains.plugins.scala.lang.completion.postfix.ScalaPostfixTemplateProvider">
+        <value>
+          <set>
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaAssertPostfixTemplate#.assert" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaCastPostfixTemplate#.cast" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaDoWhilePostfixTemplate#.dowhile" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaElseExpressionPostfixTemplate#.else" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaExhaustiveMatchPostfixTemplate#.match" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaForEachPostfixTemplate#.for" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaIfExpressionPostfixTemplate#.if" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaIntroduceFieldPostfixTemplate#.field" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaIntroduceVariablePostfixTemplate#.var" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaIsNullPostfixTemplate#.null" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaListPostfixTemplate#.List" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaMatchPostfixTemplate#.match" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaNotNullPostfixTemplate#.nn" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaNotNullPostfixTemplate#.notnull" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaNotPostfixTemplate#.!" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaNotPostfixTemplate#.not" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaOptionPostfixTemplate#.Option" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaParenthesizedExpressionPostfixTemplate#.par" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaPrintlnPostfixTemplate#.prtln" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaPrintlnPostfixTemplate#.sout" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaReturnPostfixTemplate#.return" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaSeqPostfixTemplate#.Seq" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaThrowExceptionPostfixTemplate#.throw" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaTryPostfixTemplate#.try" />
+            <option value="org.jetbrains.plugins.scala.lang.completion.postfix.templates.ScalaWhilePostfixTemplate#.while" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>

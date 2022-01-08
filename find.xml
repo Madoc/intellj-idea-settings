@@ -2,27 +2,31 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.dirish" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.java</mask>
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*Processor.scala</mask>
-    <mask>*.md</mask>
     <mask>README.md</mask>
-    <mask>*.json</mask>
     <mask>*.scala,*.md</mask>
     <mask>*.scala,*.json</mask>
     <mask>*.gradle</mask>
     <mask>Dockerfile*</mask>
     <mask>Makefile*</mask>
     <mask>build.gradle</mask>
-    <mask>*.scala</mask>
-    <mask>*</mask>
-    <mask>*</mask>
     <mask>*.dirish</mask>
+    <mask>*</mask>
+    <mask>*</mask>
+    <mask>*.sql</mask>
+    <mask>*.json</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.md</mask>
+    <mask>*.*</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
