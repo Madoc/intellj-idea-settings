@@ -1,16 +1,11 @@
 <scheme name="Madoc" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-12-01T06:08:58</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2020-04-11T16:11:39</property>
+    <property name="modified">2022-01-09T19:44:45</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="PragmataPro Mono Liga" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="353535" />
   </colors>
