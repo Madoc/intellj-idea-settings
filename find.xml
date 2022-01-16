@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.dirish" />
     <mask>*Processor.scala</mask>
     <mask>README.md</mask>
     <mask>*.scala,*.md</mask>
@@ -14,7 +14,6 @@
     <mask>Dockerfile*</mask>
     <mask>Makefile*</mask>
     <mask>build.gradle</mask>
-    <mask>*.dirish</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.css</mask>
@@ -28,5 +27,6 @@
     <mask>*</mask>
     <mask>*</mask>
     <mask>*.scala</mask>
+    <mask>*.dirish</mask>
   </component>
 </application>
