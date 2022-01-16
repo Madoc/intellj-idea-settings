@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.dirish" />
+    <option name="FILE_MASK" value="*" />
     <mask>*Processor.scala</mask>
     <mask>README.md</mask>
     <mask>*.scala,*.md</mask>
@@ -24,9 +24,9 @@
     <mask>*.java</mask>
     <mask>*.md</mask>
     <mask>*.*</mask>
-    <mask>*</mask>
-    <mask>*</mask>
     <mask>*.scala</mask>
     <mask>*.dirish</mask>
+    <mask>*</mask>
+    <mask>*</mask>
   </component>
 </application>
