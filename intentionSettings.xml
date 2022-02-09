@@ -69,5 +69,26 @@
     <ignoreAction name="Scala/Type/Toggle Type Annotation" />
     <ignoreAction name="Scala/Type/Use Infix Type Syntax" />
     <ignoreAction name="Scala/Type/Use Prefix Type Syntax" />
+    <ignoreAction name="Scala/Argument conversion/Convert to argument in parentheses" />
+    <ignoreAction name="Scala/Argument conversion/Convert to block expression" />
+    <ignoreAction name="Scala/Argument conversion/Permute arguments" />
+    <ignoreAction name="Scala/Argument conversion/Use named arguments" />
+    <ignoreAction name="Scala/Boolean/Apply DeMorgan Law" />
+    <ignoreAction name="Scala/Boolean/Flip comparison in infix expression" />
+    <ignoreAction name="Scala/Boolean/Flip comparison in method call expression" />
+    <ignoreAction name="Scala/Boolean/Simplify boolean expression" />
+    <ignoreAction name="Scala/Collections/Remove redundant 'contains' in filter " />
+    <ignoreAction name="Scala/Collections/Replace Option with Some" />
+    <ignoreAction name="Scala/Collections/Replace with .sizeIs" />
+    <ignoreAction name="Scala/Control flow/Merge nested 'if' statements" />
+    <ignoreAction name="Scala/Control flow/Merge sequential 'if' statements" />
+    <ignoreAction name="Scala/Expressions/Add braces" />
+    <ignoreAction name="Scala/Expressions/Remove braces" />
+    <ignoreAction name="Scala/Internal/Extract Java String to Intellj Bundle" />
+    <ignoreAction name="Scala/Pattern matching/Convert to typed pattern" />
+    <ignoreAction name="Scala/Pattern matching/Expand to Constructor pattern" />
+    <ignoreAction name="Scala/Play/Create route by method" />
+    <ignoreAction name="Scala/Recursion/Add @tailrec annotation" />
+    <ignoreAction name="Scala/Strings/Convert between Regular/Multi-line String" />
   </component>
 </application>
