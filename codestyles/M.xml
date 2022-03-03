@@ -117,6 +117,11 @@
       <option name="CONTINUATION_INDENT_SIZE" value="1" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Nim">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Rust">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
