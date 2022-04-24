@@ -8,6 +8,9 @@
   <JavaCodeStyleSettings>
     <option name="SPACE_AROUND_TYPE_BOUNDS_IN_TYPE_PARAMETERS" value="false" />
   </JavaCodeStyleSettings>
+  <Markdown>
+    <option name="WRAP_TEXT_INSIDE_BLOCKQUOTES" value="false" />
+  </Markdown>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="INDENT_SIZE" value="2" />
     <option name="RIGHT_MARGIN" value="-1" />
@@ -112,9 +115,11 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Markdown">
-    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="1" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Nim">
