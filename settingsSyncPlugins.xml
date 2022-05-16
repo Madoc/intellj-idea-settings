@@ -41,6 +41,11 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="org.jetbrains.plugins.go-template">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
