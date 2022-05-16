@@ -5,7 +5,9 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="stack" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
+      <mapping pattern=".scalafix.conf" type="PLAIN_TEXT" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".scalafmt.conf" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="csyn0" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
