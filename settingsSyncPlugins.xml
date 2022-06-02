@@ -38,12 +38,16 @@
         </entry>
         <entry key="org.jetbrains.plugins.go">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="org.jetbrains.plugins.go-template">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
       </map>
