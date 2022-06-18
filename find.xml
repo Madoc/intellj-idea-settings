@@ -23,9 +23,9 @@
     <mask>*.*</mask>
     <mask>*.dirish</mask>
     <mask>*.nim</mask>
-    <mask>*</mask>
     <mask>*.md</mask>
     <mask>*.scala</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
