@@ -23,10 +23,10 @@
     <mask>*.*</mask>
     <mask>*.dirish</mask>
     <mask>*.nim</mask>
-    <mask>*</mask>
     <mask>*.scala</mask>
     <mask>*.md</mask>
     <mask>*.kt</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
