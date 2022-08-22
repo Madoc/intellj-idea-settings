@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.md" />
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*Processor.scala</mask>
     <mask>README.md</mask>
     <mask>*.scala,*.md</mask>
@@ -29,5 +29,6 @@
     <mask>*.kt</mask>
     <mask>*.lua</mask>
     <mask>*.md</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
