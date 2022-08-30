@@ -28,8 +28,8 @@
     <mask>*.lua</mask>
     <mask>*.kts</mask>
     <mask>*.md</mask>
-    <mask>*</mask>
     <mask>*.rs</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
