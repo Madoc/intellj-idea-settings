@@ -26,10 +26,10 @@
     <mask>*.kt</mask>
     <mask>*.lua</mask>
     <mask>*.rs</mask>
-    <mask>*</mask>
     <mask>*.kts</mask>
     <mask>*.scala</mask>
     <mask>*.md</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
