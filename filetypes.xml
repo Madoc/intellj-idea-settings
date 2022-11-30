@@ -10,8 +10,8 @@
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt.conf" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping ext="csyn0" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
+      <mapping ext="csyn0" type="PLAIN_TEXT" />
       <mapping pattern="sbt" type="Shell Script" />
       <mapping pattern="new-day" type="Shell Script" />
       <mapping pattern="plugins" type="Shell Script" />
