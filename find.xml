@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.md" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*Processor.scala</mask>
     <mask>README.md</mask>
     <mask>*.scala,*.md</mask>
@@ -31,7 +29,7 @@
     <mask>*.kts</mask>
     <mask>*</mask>
     <mask>*</mask>
-    <mask>*.scala</mask>
     <mask>*.md</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
