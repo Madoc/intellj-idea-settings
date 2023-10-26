@@ -4,7 +4,6 @@
       <mapping pattern="logging" type="AUTO_DETECTED" />
       <mapping pattern="gitconfig-bestsecret" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="pdf" type="Native" />
       <mapping pattern="stack" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern=".scalafix.conf" type="PLAIN_TEXT" />
