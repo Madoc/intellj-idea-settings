@@ -2,11 +2,13 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="RegExp" injector-id="groovy">
       <display-name>RegExp</display-name>
+      <single-file value="true" />
       <place><![CDATA[groovyElement().annotationParam("groovy.lang.Newify", "pattern")]]></place>
       <place><![CDATA[groovyLiteralExpression().regExpOperatorArgument()]]></place>
     </injection>
     <injection language="encoding-reference" injector-id="java">
       <display-name>Charset Name</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("forName").withParameters("java.lang.String").definedInClass("java.nio.charset.Charset"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getBytes").withParameters("java.lang.String").definedInClass("java.lang.String"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("isSupported").withParameters("java.lang.String").definedInClass("java.nio.charset.Charset"))]]></place>
@@ -30,6 +32,7 @@
     </injection>
     <injection language="JSONPath" injector-id="java">
       <display-name>JsonAsserter (com.jayway.jsonpath)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertEquals").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNotDefined").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNotNull").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
@@ -38,6 +41,7 @@
     </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>Scanner (java.util)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findInLine").withParameters("java.lang.String").definedInClass("java.util.Scanner"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("findWithinHorizon").withParameters("java.lang.String", "int").definedInClass("java.util.Scanner"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("hasNext").withParameters("java.lang.String").definedInClass("java.util.Scanner"))]]></place>
@@ -47,6 +51,7 @@
     </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>String (java.lang)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.String").definedInClass("java.lang.String"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("replaceAll").withParameters("java.lang.String", "java.lang.String").definedInClass("java.lang.String"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("replaceFirst").withParameters("java.lang.String", "java.lang.String").definedInClass("java.lang.String"))]]></place>
@@ -55,6 +60,7 @@
     </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>StringSubject (com.google.common.truth)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("containsMatch").definedInClass("com.google.common.truth.StringSubject"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("doesNotContainMatch").definedInClass("com.google.common.truth.StringSubject"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("doesNotMatch").definedInClass("com.google.common.truth.StringSubject"))]]></place>
@@ -62,6 +68,7 @@
     </injection>
     <injection language="JSONPath" injector-id="java">
       <display-name>WriteContext (com.jayway.jsonpath)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("add").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("delete").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("map").definedInClass("com.jayway.jsonpath.WriteContext"))]]></place>
@@ -71,6 +78,7 @@
     </injection>
     <injection language="RegExp" injector-id="kotlin">
       <display-name>Kotlin</display-name>
+      <single-file value="true" />
       <place><![CDATA[kotlinParameter().ofFunction(0, kotlinFunction().withName("Regex").definedInClass("kotlin.text.Regex"))]]></place>
       <place><![CDATA[receiver().ofFunction(kotlinFunction().withName("toPattern").withReceiver("kotlin.String").definedInPackage("kotlin.text"))]]></place>
       <place><![CDATA[receiver().ofFunction(kotlinFunction().withName("toRegex").withReceiver("kotlin.String").definedInPackage("kotlin.text"))]]></place>
