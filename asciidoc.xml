@@ -1,6 +1,6 @@
 <application>
   <component name="AsciidocApplicationSettings">
-    <option name="pluginVersion" value="0.42.2" />
+    <option name="pluginVersion" value="0.43.1" />
     <AsciiDocPreviewSettings DefaultSplitLayout="Show editor only" VerticalSplit="false" DisabledInjectionsByLanguage="scala" KrokiUrl="" HideErrorsInSourceBlocks="true" HideErrorsByLanguage="">
       <option name="hideErrorsByLanguage" value="" />
       <option name="hideErrorsInSourceBlocks" value="true" />
