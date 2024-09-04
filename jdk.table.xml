@@ -165,7 +165,7 @@
     <jdk version="2">
       <name value="openjdk-22" />
       <type value="JavaSDK" />
-      <version value="java version &quot;22.0.2&quot;" />
+      <version value="Oracle OpenJDK 22.0.2 - aarch64" />
       <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-22.0.2/Contents/Home" />
       <roots>
         <annotationsPath>
