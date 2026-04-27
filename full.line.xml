@@ -1,0 +1,21 @@
+<application>
+  <component name="DownloadModelConsentState">
+    <option name="lastNotificationTimestamps">
+      <map>
+        <entry language="CSS" lastNotificationTimestamp="1728677639149" />
+        <entry language="Scala" lastNotificationTimestamp="1773247161230" />
+      </map>
+    </option>
+  </component>
+  <component name="InlineShortcutChoice">
+    <option name="choiceShownTimes" value="50" />
+  </component>
+  <component name="MLServerCompletionSettings">
+    <LangState language_id="Scala">
+      <option name="enabled" value="true" />
+    </LangState>
+    <LangState language_id="Scala Worksheet">
+      <option name="enabled" value="true" />
+    </LangState>
+  </component>
+</application>

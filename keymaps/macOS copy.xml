@@ -1,0 +1,10 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift meta alt s" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="shift meta alt a" />
+  </action>
+  <action id="IntroduceTypeAlias" />
+</keymap>

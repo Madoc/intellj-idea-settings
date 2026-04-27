@@ -1,0 +1,40 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.ARTICLE_MISSING" />
+        <option value="LanguageTool.EN.And" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="fucking" />
+            <option value="get passed" />
+            <option value="of a conversion of|Phantom trait for marking the semantic target of a conversion of a" />
+            <option value="of a conversion of|Phantom trait for marking the semantic target of a conversion of a domain model entity to a text element representation" />
+            <option value="of a way of|Conceive of a way of making" />
+            <option value="of other parts of|This ensures that those ids will not overlap with ids of other parts of the flow." />
+            <option value="of the leaf state of|It must be recognizable if one render content item is fully writable, i.e., a representation of the leaf state of the content tree." />
+            <option value="of the pattern section of|State of one row of the pattern section of a player's board." />
+            <option value="on|supplies the full set of monadic operations." />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="GERMAN" />
+            <option value="BRETON" />
+            <option value="SWEDISH" />
+          </set>
+        </option>
+      </State>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,64 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="logging" type="AUTO_DETECTED" />
+      <mapping pattern="gitconfig-bestsecret" type="AUTO_DETECTED" />
+      <mapping pattern="mcp.json" type="JSON5" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="stack" type="PLAIN_TEXT" />
+      <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
+      <mapping pattern=".scalafix.conf" type="PLAIN_TEXT" />
+      <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".scalafmt.conf" type="PLAIN_TEXT" />
+      <mapping pattern=".stignore" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="dirish" type="PLAIN_TEXT" />
+      <mapping ext="csyn0" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping pattern="sbt" type="Shell Script" />
+      <mapping pattern="new-day" type="Shell Script" />
+      <mapping pattern="plugins" type="Shell Script" />
+      <mapping pattern="shell-customization" type="Shell Script" />
+      <mapping pattern="scripts/post_rc" type="Shell Script" />
+      <mapping pattern="sdkman" type="Shell Script" />
+      <mapping pattern="path" type="Shell Script" />
+      <mapping pattern="navigation" type="Shell Script" />
+      <mapping pattern="shell-specifics" type="Shell Script" />
+      <mapping pattern="post_rc" type="Shell Script" />
+      <mapping pattern="python" type="Shell Script" />
+      <mapping pattern="confluent" type="Shell Script" />
+      <mapping pattern="maven" type="Shell Script" />
+      <mapping pattern="iterm" type="Shell Script" />
+      <mapping pattern="history" type="Shell Script" />
+      <mapping pattern="bin/new-day" type="Shell Script" />
+      <mapping pattern="typing" type="Shell Script" />
+      <mapping pattern="private" type="Shell Script" />
+      <mapping pattern="dotfiles" type="Shell Script" />
+      <mapping pattern="scala" type="Shell Script" />
+      <mapping pattern="git" type="Shell Script" />
+      <mapping pattern="common" type="Shell Script" />
+      <mapping pattern="command-time" type="Shell Script" />
+      <mapping pattern="theme" type="Shell Script" />
+      <mapping pattern="prince" type="Shell Script" />
+      <mapping pattern="haskell" type="Shell Script" />
+      <mapping pattern="fury" type="Shell Script" />
+      <mapping pattern="dirish" type="Shell Script" />
+      <mapping pattern="auto-update" type="Shell Script" />
+      <mapping pattern="travis" type="Shell Script" />
+      <mapping pattern="oh-my-zsh" type="Shell Script" />
+      <mapping pattern="prompt" type="Shell Script" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".springBeans" approved="true" type="Eclipse" />
+      <removed_mapping pattern="spring.handlers" approved="true" type="Properties" />
+      <removed_mapping pattern="spring.schemas" approved="true" type="Properties" />
+    </extensionMap>
+  </component>
+</application>

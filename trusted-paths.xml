@@ -1,0 +1,94 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.dotfiles" value="true" />
+        <entry key="$USER_HOME$/.dotfiles-private" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/untitled" value="true" />
+        <entry key="$USER_HOME$/p/com/deja/cv" value="true" />
+        <entry key="$USER_HOME$/p/com/innoq/bestsecret/csp/pipelines" value="true" />
+        <entry key="$USER_HOME$/p/com/innoq/bestsecret/product-data-aggregator" value="true" />
+        <entry key="$USER_HOME$/p/com/innoq/internal/events/programmier-event-2025" value="true" />
+        <entry key="$USER_HOME$/p/com/innoq/internal/mitarbeiterprofile" value="true" />
+        <entry key="$USER_HOME$/p/com/innoq/internal/octopim/octopim" value="true" />
+        <entry key="$USER_HOME$/p/com/innoq/internal/skilldb" value="true" />
+        <entry key="$USER_HOME$/p/com/innoq/learning/spring-boot-example" value="true" />
+        <entry key="$USER_HOME$/p/com/innoq/smsgroup/product-line-sim" value="true" />
+        <entry key="$USER_HOME$/p/jd/arguably" value="true" />
+        <entry key="$USER_HOME$/p/jd/fluxcore" value="true" />
+        <entry key="$USER_HOME$/p/jd/sifidb" value="true" />
+        <entry key="$USER_HOME$/p/prv/attext" value="true" />
+        <entry key="$USER_HOME$/p/prv/awepath" value="true" />
+        <entry key="$USER_HOME$/p/prv/cli-tool/dooming" value="true" />
+        <entry key="$USER_HOME$/p/prv/cli-tool/nothura" value="true" />
+        <entry key="$USER_HOME$/p/prv/cli-tool/pmigrate" value="true" />
+        <entry key="$USER_HOME$/p/prv/clitrack" value="true" />
+        <entry key="$USER_HOME$/p/prv/cyoa" value="true" />
+        <entry key="$USER_HOME$/p/prv/dooming" value="true" />
+        <entry key="$USER_HOME$/p/prv/expenses" value="true" />
+        <entry key="$USER_HOME$/p/prv/humbletc" value="true" />
+        <entry key="$USER_HOME$/p/prv/keyboard/tool-configs" value="true" />
+        <entry key="$USER_HOME$/p/prv/notes" value="true" />
+        <entry key="$USER_HOME$/p/prv/os/nixos-setup" value="true" />
+        <entry key="$USER_HOME$/p/prv/pmigrate" value="true" />
+        <entry key="$USER_HOME$/p/prv/reversible-parser" value="true" />
+        <entry key="$USER_HOME$/p/prv/rpg/campaign/echoes-of-ebonreach" value="true" />
+        <entry key="$USER_HOME$/p/prv/rpg/campaign/gta-rpg" value="true" />
+        <entry key="$USER_HOME$/p/prv/rpg/system/realistic-rpg-model" value="true" />
+        <entry key="$USER_HOME$/p/prv/rpg/system/scurps-experimental" value="true" />
+        <entry key="$USER_HOME$/p/prv/rpg/util/dice-calc" value="true" />
+        <entry key="$USER_HOME$/p/prv/scilaris" value="true" />
+        <entry key="$USER_HOME$/p/prv/scimpflow" value="true" />
+        <entry key="$USER_HOME$/p/prv/scrig" value="true" />
+        <entry key="$USER_HOME$/p/prv/self-orga/apollismus" value="true" />
+        <entry key="$USER_HOME$/p/prv/self-orga/awepath" value="true" />
+        <entry key="$USER_HOME$/p/prv/self-orga/expenses" value="true" />
+        <entry key="$USER_HOME$/p/prv/self-orga/medat" value="true" />
+        <entry key="$USER_HOME$/p/prv/self-orga/notes" value="true" />
+        <entry key="$USER_HOME$/p/prv/self-orga/personal-assistant" value="true" />
+        <entry key="$USER_HOME$/p/prv/self-orga/praxos" value="true" />
+        <entry key="$USER_HOME$/p/prv/tool-configs" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/attext" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/axial-tree" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/basekit" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/chancey" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/druth" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/humbletc" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/reversible-parser" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/scrig" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/skeltr" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/stream" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/tibr" value="true" />
+        <entry key="$USER_HOME$/p/prv/util-lib/typeout" value="true" />
+        <entry key="$USER_HOME$/p/prv/videogame/notes/blue-prince-notes" value="true" />
+        <entry key="$USER_HOME$/p/prv/videogame/round-tactics" value="true" />
+        <entry key="$USER_HOME$/p/prv/videogame/round-tactics-web-tooling" value="true" />
+        <entry key="$USER_HOME$/p/prv/videogame/siphon-doom" value="true" />
+        <entry key="$USER_HOME$/p/prv/videogame/wad-jockey" value="true" />
+        <entry key="$USER_HOME$/p/prv/videogame/wad-rig" value="true" />
+        <entry key="$USER_HOME$/p/pub/advent-of-code/aoc-scala" value="true" />
+        <entry key="$USER_HOME$/p/zvg/general-tool/Liberty-Coast-Round-Table" value="true" />
+        <entry key="$USER_HOME$/tmp/deal-store" value="true" />
+        <entry key="$USER_HOME$/tmp/deal-store/backend" value="true" />
+        <entry key="$USER_HOME$/tmp/foundry-poc" value="true" />
+        <entry key="$USER_HOME$/tmp/gitlab-migration" value="true" />
+        <entry key="$USER_HOME$/tmp/kotlin-foo" value="true" />
+        <entry key="$USER_HOME$/tmp/primeo/analysis/primeo-containers" value="true" />
+        <entry key="$USER_HOME$/tmp/sms-group-architekturentwurf" value="true" />
+        <entry key="$USER_HOME$/tmp/workshop/devops-sentinel" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/p/prv" />
+        <option value="$USER_HOME$/p/jd" />
+        <option value="$USER_HOME$/p/com/innoq/internal" />
+        <option value="$USER_HOME$/tmp/primeo/analysis" />
+        <option value="$USER_HOME$/p/zvg/general-tool" />
+        <option value="$USER_HOME$/p/com/innoq/smsgroup" />
+      </list>
+    </option>
+  </component>
+</application>

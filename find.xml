@@ -1,0 +1,36 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
+    <mask>*Processor.scala</mask>
+    <mask>README.md</mask>
+    <mask>*.scala,*.md</mask>
+    <mask>*.scala,*.json</mask>
+    <mask>*.gradle</mask>
+    <mask>Dockerfile*</mask>
+    <mask>Makefile*</mask>
+    <mask>build.gradle</mask>
+    <mask>*.sql</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.dirish</mask>
+    <mask>*.nim</mask>
+    <mask>*.kt</mask>
+    <mask>*.lua</mask>
+    <mask>*.rs</mask>
+    <mask>*.kts</mask>
+    <mask>*.adoc</mask>
+    <mask>*.md</mask>
+    <mask>*.json</mask>
+    <mask>*.*</mask>
+    <mask>*.java</mask>
+    <mask>*.scala</mask>
+    <mask>*</mask>
+    <mask>*</mask>
+  </component>
+</application>

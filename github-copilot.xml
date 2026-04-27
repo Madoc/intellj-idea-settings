@@ -1,0 +1,29 @@
+<application>
+  <component name="github-copilot">
+    <option name="signinNotificationShown" value="true" />
+    <languageAllowList>
+      <map>
+        <entry key="*" value="true" />
+      </map>
+    </languageAllowList>
+    <option name="showIdeCompletions" value="true" />
+    <option name="checkForUpdate" value="false" />
+    <option name="preferredAccount" value="db0b978f-5044-4c5f-a2b4-40d0f9be8ec3" />
+    <option name="chatNaturalLanguage" value="Englisch" />
+    <option name="terminalRulesVersion" value="1" />
+    <editAutoApprove>
+      <FileSafetyRule>
+        <option name="description" value="Github instructions files" />
+        <option name="pattern" value="**/.github/instructions/*" />
+      </FileSafetyRule>
+      <FileSafetyRule>
+        <option name="description" value="JetBrains settings files" />
+        <option name="pattern" value="**/.idea/**/*" />
+      </FileSafetyRule>
+      <FileSafetyRule>
+        <option name="description" value="Github Copilot settings and token files" />
+        <option name="pattern" value="**/github-copilot/**/*" />
+      </FileSafetyRule>
+    </editAutoApprove>
+  </component>
+</application>
