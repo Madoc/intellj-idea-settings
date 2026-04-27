@@ -1,0 +1,12 @@
+<code_scheme name="Vanguard" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="RIGHT_MARGIN" value="180" />
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
+    <option name="SPACE_BEFORE_COLON" value="false" />
+    <option name="SPACE_AFTER_COLON" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
