@@ -1,5 +1,0 @@
-<application>
-  <component name="ZigGlobalSettings">
-    <option name="allZigExePath" value="$USER_HOME$/.dotfiles-private/linked-bin/shared/zig/zig" />
-  </component>
-</application>
