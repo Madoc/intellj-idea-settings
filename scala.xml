@@ -1,6 +1,6 @@
 <application>
   <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_SDK" value="openjdk-22" />
+    <option name="COMPILE_SERVER_SDK" value="17" />
     <option name="COMPILE_SERVER_ID" value="599ed1a0-dd12-4e08-b8f2-1d3d39419e0d" />
     <option name="COMPILE_SERVER_SHUTDOWN_DELAY" value="240" />
   </component>
