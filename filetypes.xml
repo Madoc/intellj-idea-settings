@@ -14,7 +14,6 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="dirish" type="PLAIN_TEXT" />
       <mapping ext="csyn0" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="sbt" type="Shell Script" />
       <mapping pattern="new-day" type="Shell Script" />
       <mapping pattern="plugins" type="Shell Script" />
@@ -59,6 +58,7 @@
       <removed_mapping pattern=".springBeans" approved="true" type="Eclipse" />
       <removed_mapping pattern="spring.handlers" approved="true" type="Properties" />
       <removed_mapping pattern="spring.schemas" approved="true" type="Properties" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
