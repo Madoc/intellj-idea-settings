@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*" />
     <mask>*Processor.scala</mask>
     <mask>README.md</mask>
     <mask>*.scala,*.md</mask>
@@ -30,7 +30,7 @@
     <mask>*.java</mask>
     <mask>*.scala</mask>
     <mask>*</mask>
-    <mask>*</mask>
     <mask>*.html</mask>
+    <mask>*</mask>
   </component>
 </application>
