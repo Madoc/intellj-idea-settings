@@ -29,8 +29,8 @@
     <mask>*.*</mask>
     <mask>*.java</mask>
     <mask>*.scala</mask>
-    <mask>*</mask>
     <mask>*.html</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
