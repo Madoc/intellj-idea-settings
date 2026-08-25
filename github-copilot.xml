@@ -11,7 +11,7 @@
     <option name="showIdeCompletions" value="true" />
     <option name="checkForUpdate" value="false" />
     <option name="chatNaturalLanguage" value="Englisch" />
-    <option name="terminalRulesVersion" value="1" />
+    <option name="terminalRulesVersion" value="2" />
     <editAutoApprove>
       <FileSafetyRule>
         <option name="description" value="Github instructions files" />
