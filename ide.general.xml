@@ -11,6 +11,7 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" source="SYSTEM" />
     <entry key="chat.run.target.promo.enabled" value="true" source="MANAGER" />
     <entry key="code.provenance.chatter.analytics.enabled" value="false" source="MANAGER" />
+    <entry key="llm.chat.detached.compose.panel.cache.size" value="0" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
