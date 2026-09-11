@@ -58,15 +58,16 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="fucking" />
-            <option value="get passed" />
+            <option value="on|supplies the full set of monadic operations." />
             <option value="of a conversion of|Phantom trait for marking the semantic target of a conversion of a" />
-            <option value="of a conversion of|Phantom trait for marking the semantic target of a conversion of a domain model entity to a text element representation" />
+            <option value="of the leaf state of|It must be recognizable if one render content item is fully writable, i.e., a representation of the leaf state of the content tree." />
             <option value="of a way of|Conceive of a way of making" />
             <option value="of other parts of|This ensures that those ids will not overlap with ids of other parts of the flow." />
-            <option value="of the leaf state of|It must be recognizable if one render content item is fully writable, i.e., a representation of the leaf state of the content tree." />
             <option value="of the pattern section of|State of one row of the pattern section of a player's board." />
-            <option value="on|supplies the full set of monadic operations." />
+            <option value="fucking" />
+            <option value="get passed" />
+            <option value="of a conversion of|Phantom trait for marking the semantic target of a conversion of a domain model entity to a text element representation" />
+            <option value="of lack of|A sign of lack of emotional maturity." />
           </set>
         </option>
       </SuppressingContext>
